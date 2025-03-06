@@ -1,0 +1,17 @@
+[
+  {
+    "user_id": "1001",
+    "parcel_id": "P001",
+    "status": "Out for Delivery"
+  },
+  {
+    "user_id": "1002",
+    "parcel_id": "P002",
+    "status": "Delivered"
+  },
+  {
+    "user_id": "1003",
+    "parcel_id": "P003",
+    "status": "Pending"
+  }
+]
